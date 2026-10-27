@@ -1,0 +1,135 @@
+Date,Customer,Product,Category,Quantity,Price,Total
+2025-01-03,Pooja,Shampoo,Personal Care,3,117.6,352.8
+2025-01-10,Amit,Biscuits,Snacks,4,19.6,78.4
+2025-01-17,Priya,Toothpaste,Personal Care,4,65.0,260.0
+2025-01-17,Sneha,Shampoo,Personal Care,3,120.0,360.0
+2025-01-24,Pooja,Shampoo,Personal Care,5,120.0,600.0
+2025-01-24,Neha,Curd,Dairy,1,40.0,40.0
+2025-01-31,Priya,Sugar,Grocery,2,48.96,97.92
+2025-01-31,Rahul,Sugar,Grocery,3,48.0,144.0
+2025-02-07,Rahul,Butter,Dairy,5,56.1,280.5
+2025-02-07,Pooja,Wheat Flour,Grocery,3,55.0,165.0
+2025-02-14,Rahul,Cooking Oil,Grocery,6,142.8,856.8
+2025-02-14,Pooja,Butter,Dairy,2,53.9,107.8
+2025-02-21,Priya,Wheat Flour,Grocery,2,55.0,110.0
+2025-02-28,Ravi,Chips,Snacks,2,25.0,50.0
+2025-03-07,Neha,Shampoo,Personal Care,5,122.4,612.0
+2025-03-07,Ravi,Biscuits,Snacks,5,19.6,98.0
+2025-03-14,Pooja,Toothpaste,Personal Care,6,65.0,390.0
+2025-03-21,Neha,Chips,Snacks,5,25.0,125.0
+2025-03-28,Priya,Sugar,Grocery,5,48.96,244.8
+2025-03-28,Ravi,Butter,Dairy,5,55.0,275.0
+2025-04-04,Amit,Chips,Snacks,1,25.0,25.0
+2025-04-11,Rahul,Butter,Dairy,3,53.9,161.7
+2025-04-18,Sneha,Sugar,Grocery,4,48.0,192.0
+2025-04-18,Sneha,Biscuits,Snacks,5,20.0,100.0
+2025-04-25,Pooja,Wheat Flour,Grocery,6,55.0,330.0
+2025-04-25,Akash,Curd,Dairy,6,40.0,240.0
+2025-05-02,Priya,Soap,Personal Care,2,34.3,68.6
+2025-05-09,Neha,Curd,Dairy,4,40.0,160.0
+2025-05-16,Pooja,Shampoo,Personal Care,3,120.0,360.0
+2025-05-16,Neha,Soap,Personal Care,3,35.0,105.0
+2025-05-23,Rahul,Sugar,Grocery,5,48.0,240.0
+2025-05-30,Sneha,Sugar,Grocery,6,48.0,288.0
+2025-05-30,Pooja,Butter,Dairy,3,55.0,165.0
+2025-06-06,Rahul,Wheat Flour,Grocery,4,56.1,224.4
+2025-06-13,Ravi,Soap,Personal Care,1,35.0,35.0
+2025-06-20,Pooja,Butter,Dairy,5,55.0,275.0
+2025-06-20,Akash,Butter,Dairy,2,56.1,112.2
+2025-06-27,Pooja,Namkeen,Snacks,5,45.0,225.0
+2025-07-04,Akash,Wheat Flour,Grocery,1,55.0,55.0
+2025-07-11,Ravi,Cooking Oil,Grocery,5,140.0,700.0
+2025-07-11,Pooja,Biscuits,Snacks,6,20.0,120.0
+2025-07-18,Rahul,Butter,Dairy,3,55.0,165.0
+2025-07-18,Sneha,Biscuits,Snacks,1,20.4,20.4
+2025-07-25,Pooja,Sugar,Grocery,5,48.0,240.0
+2025-07-25,Neha,Wheat Flour,Grocery,2,56.1,112.2
+2025-08-01,Neha,Biscuits,Snacks,4,20.4,81.6
+2025-08-08,Akash,Butter,Dairy,4,55.0,220.0
+2025-08-15,Ravi,Chips,Snacks,1,25.0,25.0
+2025-08-22,Pooja,Curd,Dairy,5,40.0,200.0
+2025-08-22,Pooja,Wheat Flour,Grocery,5,55.0,275.0
+2025-08-29,Sneha,Soap,Personal Care,4,35.0,140.0
+2025-09-05,Ravi,Butter,Dairy,4,55.0,220.0
+2025-09-05,Ravi,Shampoo,Personal Care,1,120.0,120.0
+2025-09-12,Sneha,Sugar,Grocery,1,48.0,48.0
+2025-09-12,Amit,Biscuits,Snacks,4,20.4,81.6
+2025-09-19,Rahul,Milk,Dairy,5,30.6,153.0
+2025-09-26,Amit,Soap,Personal Care,4,34.3,137.2
+2025-09-26,Neha,Soap,Personal Care,1,35.0,35.0
+2025-10-03,Ravi,Chips,Snacks,5,25.0,125.0
+2025-10-03,Ravi,Toothpaste,Personal Care,2,63.7,127.4
+2025-10-10,Sneha,Curd,Dairy,6,40.0,240.0
+2025-10-10,Neha,Toothpaste,Personal Care,1,65.0,65.0
+2025-10-17,Akash,Curd,Dairy,6,40.0,240.0
+2025-10-24,Priya,Cooking Oil,Grocery,6,140.0,840.0
+2025-10-24,Sneha,Soap,Personal Care,3,35.0,105.0
+2025-10-31,Rahul,Shampoo,Personal Care,3,120.0,360.0
+2025-11-07,Rahul,Cooking Oil,Grocery,3,140.0,420.0
+2025-11-07,Akash,Sugar,Grocery,2,48.0,96.0
+2025-11-14,Akash,Sugar,Grocery,1,48.96,48.96
+2025-11-21,Rahul,Curd,Dairy,6,40.0,240.0
+2025-11-28,Akash,Milk,Dairy,5,30.0,150.0
+2025-12-05,Pooja,Curd,Dairy,1,39.2,39.2
+2025-12-05,Neha,Rice,Grocery,2,60.0,120.0
+2025-12-12,Amit,Namkeen,Snacks,2,45.0,90.0
+2025-12-19,Sneha,Namkeen,Snacks,3,45.0,135.0
+2025-12-19,Amit,Toothpaste,Personal Care,5,65.0,325.0
+2025-12-26,Pooja,Soap,Personal Care,1,35.0,35.0
+2025-12-26,Pooja,Soap,Personal Care,6,35.0,210.0
+2026-01-02,Rahul,Curd,Dairy,2,39.2,78.4
+2026-01-09,Akash,Butter,Dairy,3,55.0,165.0
+2026-01-09,Neha,Chips,Snacks,4,24.5,98.0
+2026-01-16,Rahul,Biscuits,Snacks,3,20.0,60.0
+2026-01-23,Neha,Cooking Oil,Grocery,6,142.8,856.8
+2026-01-23,Pooja,Shampoo,Personal Care,4,122.4,489.6
+2026-01-30,Amit,Cooking Oil,Grocery,2,137.2,274.4
+2026-01-30,Pooja,Butter,Dairy,2,55.0,110.0
+2026-02-06,Akash,Shampoo,Personal Care,6,122.4,734.4
+2026-02-06,Pooja,Biscuits,Snacks,1,20.0,20.0
+2026-02-13,Rahul,Milk,Dairy,6,29.4,176.4
+2026-02-13,Sneha,Curd,Dairy,2,40.0,80.0
+2026-02-20,Priya,Toothpaste,Personal Care,5,63.7,318.5
+2026-02-27,Pooja,Soap,Personal Care,4,35.0,140.0
+2026-03-06,Ravi,Sugar,Grocery,2,47.04,94.08
+2026-03-13,Sneha,Toothpaste,Personal Care,1,65.0,65.0
+2026-03-20,Pooja,Biscuits,Snacks,1,20.0,20.0
+2026-03-27,Neha,Biscuits,Snacks,2,19.6,39.2
+2026-04-03,Sneha,Curd,Dairy,5,39.2,196.0
+2026-04-10,Akash,Soap,Personal Care,4,35.7,142.8
+2026-04-17,Sneha,Toothpaste,Personal Care,1,65.0,65.0
+2026-04-17,Neha,Sugar,Grocery,2,48.0,96.0
+2026-04-24,Pooja,Namkeen,Snacks,2,45.0,90.0
+2026-04-24,Akash,Wheat Flour,Grocery,4,53.9,215.6
+2026-05-01,Amit,Sugar,Grocery,1,48.0,48.0
+2026-05-08,Priya,Biscuits,Snacks,6,19.6,117.6
+2026-05-08,Akash,Soap,Personal Care,2,34.3,68.6
+2026-05-15,Rahul,Shampoo,Personal Care,4,122.4,489.6
+2026-05-15,Priya,Biscuits,Snacks,4,20.0,80.0
+2026-05-22,Priya,Toothpaste,Personal Care,3,66.3,198.9
+2026-05-22,Rahul,Butter,Dairy,2,55.0,110.0
+2026-05-29,Pooja,Wheat Flour,Grocery,1,55.0,55.0
+2026-06-05,Ravi,Wheat Flour,Grocery,4,55.0,220.0
+2026-06-05,Pooja,Biscuits,Snacks,3,20.0,60.0
+2026-06-12,Priya,Wheat Flour,Grocery,6,56.1,336.6
+2026-06-12,Pooja,Toothpaste,Personal Care,5,65.0,325.0
+2026-06-19,Priya,Namkeen,Snacks,3,45.9,137.7
+2026-06-26,Sneha,Shampoo,Personal Care,5,122.4,612.0
+2026-07-03,Rahul,Milk,Dairy,1,30.0,30.0
+2026-07-10,Priya,Chips,Snacks,6,25.0,150.0
+2026-07-10,Rahul,Shampoo,Personal Care,1,122.4,122.4
+2026-07-17,Sneha,Biscuits,Snacks,6,20.4,122.4
+2026-07-17,Akash,Sugar,Grocery,2,47.04,94.08
+2026-07-24,Priya,Chips,Snacks,6,25.5,153.0
+2026-07-31,Ravi,Soap,Personal Care,5,35.0,175.0
+2026-07-31,Sneha,Rice,Grocery,4,60.0,240.0
+2026-08-07,Amit,Cooking Oil,Grocery,4,140.0,560.0
+2026-08-14,Rahul,Chips,Snacks,5,24.5,122.5
+2026-08-21,Neha,Chips,Snacks,4,25.0,100.0
+2026-08-21,Amit,Toothpaste,Personal Care,5,65.0,325.0
+2026-08-28,Rahul,Wheat Flour,Grocery,5,55.0,275.0
+2026-08-28,Neha,Toothpaste,Personal Care,5,66.3,331.5
+2026-09-04,Priya,Namkeen,Snacks,5,45.9,229.5
+2026-09-11,Sneha,Shampoo,Personal Care,2,120.0,240.0
+2026-09-18,Amit,Soap,Personal Care,6,35.0,210.0
+2026-09-25,Neha,Chips,Snacks,5,25.0,125.0
